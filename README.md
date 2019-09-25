@@ -5,8 +5,8 @@
 ### Author: Jonathon Schwamman
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+* [submission PR](https://github.com/Schwamman-401-advanced-javascript/lab-08/pull/1)
+* [travis](https://www.travis-ci.com/Schwamman-401-advanced-javascript/lab-08)
 
 #### Documentation
 

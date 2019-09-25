@@ -57,7 +57,7 @@ describe('Products/Categories API', () => {
                   expect(res.body).toHaveProperty('quantity', 5);
                   expect(res.body).toHaveProperty('inStock', true);
                 });
-            })
+            });
         });
     });  
     
@@ -126,7 +126,7 @@ describe('Products/Categories API', () => {
                 .then(res => {
                   expect(res.body).toHaveProperty('name', 'Category1');
                 });
-            })
+            });
         });
     });  
     
